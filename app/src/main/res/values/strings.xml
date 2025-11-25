@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Omikuji Compose</string>
-    <string name=""
+    <string name="title">今日の運勢を占いましょう</string>
+    <string name="img_desc">おみくじの結果</string>
+    <string name="btn_text">占う</string>
+    <string name="btn_text_again">もう一度</string>
 </resources>
